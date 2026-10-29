@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Guild is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by y-combinator) and added to the network as a stub for full-pipeline profiling.
-- https://www.guildai.co
+Guild is an AI-native defense contractor that transforms government requirements into manufactured aerospace parts, handling everything from planning through delivery. The company leverages artificial intelligence to automate the conversion of technical specifications into production plans, coordinate qualified factories, manage compliance, and ensure timely delivery of critical defense hardware. Backed by Y Combinator, Guild aims to reduce waste, accelerate production cycles, and provide transparent, traceable manufacturing for defense contracts.
+
+**Areas:** Company · AI · Defense · Manufacturing · Aerospace · Startup
+
+## Guild on APIs.io
+
+Everything profiled for Guild is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/guildai-co/](https://apis.io/providers/guildai-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Guild Opportunity Feed API](https://apis.io/apis/guildai-co/guildai-co-opportunity-feed-api/) — The Opportunity Feed API from Guild — 1 operation(s) for opportunity feed.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Guildai Co Agentic Access](https://apis.io/agentic-access/guildai-co/guildai-co-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [OpportunityFeedResponse](https://apis.io/schemas/guildai-co/guildai-co-opportunity-feed-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Guildai Co Context](https://apis.io/jsonld/guildai-co/guildai-co-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Guildai Co Openapi Overlay](https://apis.io/overlays/guildai-co/guildai-co-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Guild API Rules](https://apis.io/rules/guildai-co/guildai-co-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Guildai Co Authentication](https://apis.io/security/guildai-co/guildai-co-authentication/)
+- [Guildai Co Domain Security](https://apis.io/security/guildai-co/guildai-co-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Guildai Co Scopes](https://apis.io/scopes/guildai-co/guildai-co-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Guildai Co Rate Limits](https://apis.io/rate-limits/guildai-co/guildai-co-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.guildai.co)
+- [Documentation](https://docs.guildai.co)
+- [Getting started](https://www.guildai.co/platform/)
+- [API reference](https://docs.guildai.co/openapi.yaml)
+- [Sign up](https://app.guildai.co/auth)
+
+## API Evangelist rating
+
+**Kin Score 46.8** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 57.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 13.2 |
+
+**Agent readiness 44.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/guildai-co/](https://apis.io/providers/guildai-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Guild: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/guildai-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
